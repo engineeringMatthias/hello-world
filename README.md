@@ -10,5 +10,5 @@ test push
 *02.03.2024*
 greizzefix warum muas github a andere Web GUI als GitLab haben - test
 
-*04.03.2026*
+*04.02.2026*
 gruezi from BuR
